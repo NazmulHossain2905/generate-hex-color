@@ -12,10 +12,38 @@ In CSS, a color can be specified using a hexadecimal value in the form:
 
 - Where rr (red), gg (green) and bb (blue) are hexadecimal values between 00 and ff (same as decimal 0-255).
 
-- For example, #ff0000 is displayed as red, because red is set to its highest value (ff) and the others are set to the lowest value (00).
+- For example, `#ff0000` is displayed as red, because red is set to its highest value (ff) and the others are set to the lowest value (00).
 
-- To display black, set all values to 00, like this: #000000.
+- To display black, set all values to 00, like this: `#000000`.
 
-- To display white, set all values to ff, like this: #ffffff.
+- To display white, set all values to ff, like this: `#ffffff`.
 
-- Experiment by mixing the HEX values [here]():
+- Experiment by mixing the HEX values [here](https://nazmulhossain2905.github.io/generate-hex-color/):
+
+---
+
+## [Visit - Live Site](https://nazmulhossain2905.github.io/generate-hex-color/)
+
+## Screenshots
+
+<img src="./assets/images/Generate-HEX-Color.png" alt="Generate HEX Color" width="100%">
+
+---
+
+<img src="./assets/images/Generate-HEX-Color-1.png" alt="Generate HEX Color" width="100%">
+
+---
+
+<img src="./assets/images/Generate-HEX-Color-1.png" alt="Generate HEX Color" width="100%">
+
+### Using Languages
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+You can follow me. 👍🏻👍🏻
+
+### Thank You. ♥️♥️
