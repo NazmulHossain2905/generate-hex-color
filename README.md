@@ -18,7 +18,7 @@ In CSS, a color can be specified using a hexadecimal value in the form:
 
 - To display white, set all values to ff, like this: `#ffffff`.
 
-- Experiment by mixing the HEX values [here](https://nazmulhossain2905.github.io/generate-hex-color/):
+- Experiment by mixing the HEX values [here](https://nazmulhossain2905.github.io/generate-hex-color/).
 
 ---
 
@@ -34,7 +34,7 @@ In CSS, a color can be specified using a hexadecimal value in the form:
 
 ---
 
-<img src="./assets/images/Generate-HEX-Color-1.png" alt="Generate HEX Color" width="100%">
+<img src="./assets/images/Generate-HEX-Color-2.png" alt="Generate HEX Color" width="100%">
 
 ### Using Languages
 
